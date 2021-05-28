@@ -1,7 +1,7 @@
-package hello
+package pkg2
 
 import (
-	"github.com/hugelgupf/modplay/pkg1"
+	"github.com/hugelgupf/modplay/v2/pkg1"
 )
 
 func Hello() string {
